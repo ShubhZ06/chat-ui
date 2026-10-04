@@ -137,7 +137,7 @@
 				}
 			}}
 		>
-			<span>{conv.title}</span>
+			<span class="block truncate">{conv.title}</span>
 		</a>
 
 		{#if !readOnly}
